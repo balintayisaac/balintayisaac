@@ -14,7 +14,7 @@ I build AI systems that run on modest hardware. Most local-LLM tooling assumes a
 
 ## Stack
 
-Linux (Lubuntu) · Python · llama.cpp / GGUF · SQLite · tree-sitter · git
+Linux (Lubuntu) · Python (CLI/backend) · C/C++ (llama.cpp) · TypeScript (tooling/plugins) · SQL/SQLite · tree-sitter · git
 
 ## Contact
 
